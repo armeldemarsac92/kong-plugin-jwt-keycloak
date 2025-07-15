@@ -27,8 +27,7 @@ return {
           }},
           { anonymous = { 
               type = "string", 
-              uuid = true, 
-              legacy = true 
+              uuid = true
           }},
           { run_on_preflight = { 
               type = "boolean", 
